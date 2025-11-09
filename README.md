@@ -1662,7 +1662,7 @@ A–Z list of third-party plugins.
 ## Youlean Loudness Meter
 
 Download here:  
-[Youlean Loudness Meter](https://youlean.co/youlean-loudness-meter/)
+[Youlean Loudness Meter](https://youlean.co/youlean-loudness-meter/) (Use the VST3 plugin – compatible with Windows and Mac)
 
 ```text
 PLUGIN: Youlean Loudness Meter  
