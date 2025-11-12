@@ -1494,7 +1494,6 @@ INPUT FILTER
 - Lo Cut / Hi Cut: On/Off | Enables input filters to reduce frequency range before reverb
 - Bandpass Display | X-Y control for frequency (horizontal) and resonance (vertical)
 - Frequency: 50 Hz - 18 kHz | Sets centre frequency of input band-pass filter
-- Resonance (Q): 0.50 - 9.00 | Sets sharpness of input filter
 
 EARLY REFLECTIONS
 - Spin: On/Off | Toggles modulation of early reflections
