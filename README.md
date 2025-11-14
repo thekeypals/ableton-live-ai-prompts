@@ -208,6 +208,8 @@ OUTRO
 
 Copy this block into AI to define how device parameters should be used during the project.
 
+[Next Step → Choose a Device or Rack](#user-presets)
+
 ```text
 Device Parameters Instructions
 
