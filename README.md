@@ -76,7 +76,7 @@ Copy this block into AI at the start of any project to give it context.
 
 Note that when setting levels, you may need to remind the AI what your kick and bass are peaking at to ensure accurate feedback.
 
-##### [Next Step](#daw-behaviour-notes)
+[Next Step → DAW Behaviour Notes](#daw-behaviour-notes)
 
 ```text
 Project Details
@@ -115,7 +115,7 @@ Gain Staging Guide
 
 Copy this block into AI to ensure parameter suggestions match Ableton Live controls.
 
-##### [Next Step](#song-structure)
+[Next Step → Song Structure](#song-structure)
 
 ```text
 DAW Behaviour Notes
@@ -132,7 +132,7 @@ DAW Behaviour Notes
 
 Copy this block into AI to describe the song arrangement (add lyrics if relevant).
 
-##### [Next Step](#device-parameters-instructions)
+[Next Step → Device Parameters Instructions](#device-parameters-instructions)
 
 ```text
 Song Structure
