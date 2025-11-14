@@ -17,14 +17,16 @@ You can copy and paste these prompts into any of the following AI platforms:
 
 ## Table of Contents
 
-- [Project Setup](#project-setup) – copy these four sections into your AI chat when starting a project  
-  - [Project Details](#project-details)
-  - [DAW Behaviour Notes](#daw-behaviour-notes)
-  - [Song Structure](#song-structure)
-  - [Device Parameters Instructions](#device-parameters-instructions)
+- [Project Setup](#project-setup) – copy these four sections into your AI chat when starting a project
 
+  - [Project Details](#project-details)  
+  - [DAW Behaviour Notes](#daw-behaviour-notes)  
+  - [Song Structure](#song-structure)  
+  - [Device Parameters Instructions](#device-parameters-instructions)  
+
+- [User Presets](#user-presets) – devices and racks included in the Project Template and User Library
 <a id="table-of-contents-user-presets"></a>
-- [User Presets](#user-presets) – devices and racks included in the Project Template and User Library  
+
   - [Analyser Rack](#analyser-rack)  
   - [Automation](#automation)  
   - [Backing Vocals Sidechain](#backing-vocals-sidechain)  
@@ -437,6 +439,7 @@ PLUGIN 3: Utility (Utility.adv) – On by default
 ##### [Back to Top](#table-of-contents)
 
 ### Drum Buss
+<a id="drum-buss-user-preset"></a>
 
 ```text
 PLUGIN: Drum Buss (Drum Buss.adv)  
