@@ -17,7 +17,7 @@ You can copy and paste these prompts into any of the following AI platforms:
 
 ## Table of Contents
 
-- [Project Setup](#project-setup) – copy these four sections into your AI chat when starting a project
+- [Project Setup](#project-setup) – copy these four sections into your AI chat when starting a project  
   - [Project Details](#project-details)
   - [DAW Behaviour Notes](#daw-behaviour-notes)
   - [Song Structure](#song-structure)
