@@ -23,6 +23,7 @@ You can copy and paste these prompts into any of the following AI platforms:
   - [Song Structure](#song-structure)
   - [Device Parameters Instructions](#device-parameters-instructions)
 
+<a id="table-of-contents-user-presets"></a>
 - [User Presets](#user-presets) – devices and racks included in the Project Template and User Library  
   - [Analyser Rack](#analyser-rack)  
   - [Automation](#automation)  
@@ -210,7 +211,7 @@ OUTRO
 
 Copy this block into AI to define how device parameters should be used during the project.
 
-[Next Step → Choose a Device or Rack](#user-presets)
+[Next Step → Choose a Device or Rack](#table-of-contents-user-presets)
 
 ```text
 Device Parameters Instructions
