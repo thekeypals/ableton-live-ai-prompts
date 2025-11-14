@@ -17,9 +17,11 @@ You can copy and paste these prompts into any of the following AI platforms:
 
 ## Table of Contents
 
-- [General Context](#general-context)  
-  - [Project Details](#project-details)  
-  - [Song Structure](#song-structure)  
+- [Project Setup](#project-setup) – copy these four sections into your AI chat when starting a project
+  - [Project Details](#project-details)
+  - [DAW Behaviour Notes](#daw-behaviour-notes)
+  - [Song Structure](#song-structure)
+  - [Device Parameters Instructions](#device-parameters-instructions)
 
 - [User Presets](#user-presets) – devices and racks included in the Project Template and User Library  
   - [Analyser Rack](#analyser-rack)  
@@ -64,13 +66,17 @@ You can copy and paste these prompts into any of the following AI platforms:
 - [Third-Party Plugins](#third-party-plugins) – external VST/AU devices commonly used with Live  
   - [Youlean Loudness Meter](#youlean-loudness-meter)  
 
-## General Context
+## Project Setup
+
+Paste these four blocks into AI in the order shown.
 
 ### Project Details
 
 Copy this block into AI at the start of any project to give it context. 
 
 Note that when setting levels, you may need to remind the AI what your kick and bass are peaking at to ensure accurate feedback.
+
+##### [Next Step](#daw-behaviour-notes)
 
 ```text
 Project Details
@@ -105,9 +111,28 @@ Gain Staging Guide
 
 ##### [Back to Top](#table-of-contents)
 
+### DAW Behaviour Notes
+
+Copy this block into AI to ensure parameter suggestions match Ableton Live controls.
+
+##### [Next Step](#song-structure)
+
+```text
+DAW Behaviour Notes
+
+- Ableton Live send levels use dB, not percentages
+- Send range is -inf dB - 0 dB
+- Panning is L - R on a 50L - Centre - 50R scale
+- Use Ableton Live parameter names exactly as written in the UI
+```
+
+##### [Back to Top](#table-of-contents)
+
 ### Song Structure
 
 Copy this block into AI to describe the song arrangement (add lyrics if relevant).
+
+##### [Next Step](#device-parameters-instructions)
 
 ```text
 Song Structure
@@ -175,6 +200,28 @@ OUTRO
 - Chords / Harmony:  
 - Notes:  
 - Lyrics:  
+```
+
+##### [Back to Top](#table-of-contents)
+
+### Device Parameters Instructions
+
+Copy this block into AI to define how device parameters should be used during the project.
+
+```text
+Device Parameters Instructions
+
+- Treat all parameter values as coming from real Ableton Live controls
+- Only reference parameters that exist on the devices provided by the user
+- When discussing a device, use the parameter list supplied in the prompt
+- Never invent controls, values, ranges or modes that are not in the user’s text
+- Give suggestions using the units shown in Ableton Live (dB, %, ms, Hz, L/R etc)
+- If more information about a device is needed, ask the user which block to reference
+
+Parameter Sources
+- User Presets: devices and racks from the Project Template and User Library
+- Ableton Live Default Plugins: all stock Ableton devices
+- Third-Party Plugins: external VST/AU devices used in the project
 ```
 
 ##### [Back to Top](#table-of-contents)
