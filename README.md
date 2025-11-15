@@ -77,7 +77,8 @@ Copy and paste these four blocks into AI in the order shown.
 
 Copy this block into AI at the start of any project to give it context.
 
-*To copy the text, click the copy icon in the top right of the code block.*
+> [!TIP]  
+> Click the copy icon in the top-right corner of the code block to copy the text.
 
 Note that when setting levels, you may need to remind the AI what your kick and bass are peaking at to ensure accurate feedback.
 
