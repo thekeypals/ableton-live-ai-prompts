@@ -67,7 +67,13 @@ You can copy and paste these prompts into any of the following AI platforms:
   - [Utility](#utility)  
 
 - [Third-Party Plugins](#third-party-plugins) – external VST/AU devices commonly used with Live  
-  - [Youlean Loudness Meter](#youlean-loudness-meter)  
+  - [Youlean Loudness Meter](#youlean-loudness-meter)
+ 
+### Connect with Us   
+- [Collaborate](#collaborate)  
+- [Contact](#contact)
+- [Other Repositories](#other-repositories)
+- [Links](#links)
 
 ## Project Setup
 
@@ -1753,3 +1759,53 @@ Use Youlean Loudness Meter last in the mastering chain to measure the final rend
 ```
 
 ##### [Back to Top](#table-of-contents)
+
+## Connect with Us   
+
+### Collaborate
+
+We collaborate with musicians, writers, producers and creators worldwide.
+
+If you would like to contribute to a future release – co-writing, remixing, performing or something else entirely – use the form below.
+
+- [Fill out the collaboration form](https://docs.google.com/forms/d/e/1FAIpQLScRGKR8uRhbcAC3b3VvGJLZVE0qL3IpD0C_S3KhDsywEKBVFg/viewform?usp=sharing&ouid=115125383633421332846)
+
+### Contact
+
+We welcome your feedback, questions and contributions.
+
+If you find a dead link or have suggestions to improve this page, please open a GitHub issue where possible:
+
+- [Report a Dead Link](https://github.com/thekeypals/songbook/issues/new?template=dead-link-report.md)
+- [Open an Issue](https://github.com/thekeypals/songbook/issues)
+- Email us at [mail@thekeypals.com](mailto:mail@thekeypals.com?subject=GitHub%20enquiry) if you cannot open an issue
+
+### Other Repositories
+
+- [Ableton Live Project Template](https://github.com/thekeypals/ableton-live-project-template)
+- [Ableton Live User Library](https://github.com/thekeypals/ableton-live-user-library)
+- [Ableton Live Collaborative Workflows](https://github.com/thekeypals/ableton-live-collaborative-workflow)
+- [Songbook](https://github.com/thekeypals/songbook)
+- [Useful Links](https://github.com/thekeypals/useful-links)
+
+### Links
+
+#### Listen
+- [Amazon Music](https://www.amazon.com/music/player/artists/B09BR9Z2QT/the-keypals)
+- [Apple Music](https://music.apple.com/us/artist/the-keypals/1579237881)
+- [Bandcamp](https://thekeypals.bandcamp.com)
+- [Deezer](https://www.deezer.com/en/artist/141225782)
+- [SoundCloud](https://soundcloud.com/thekeypals)
+- [Spotify](https://open.spotify.com/artist/5fCYdq9llPFCdv8EWBFSDU)
+- [Tidal](https://tidal.com/artist/27658576)
+- [YouTube Music](https://music.youtube.com/channel/UC0AWZYpYXGng3Bo-B0EWuQA)
+
+#### Follow
+- [Instagram](https://instagram.com/thekeypals)
+- [X](https://x.com/thekeypals)
+- [YouTube](https://www.youtube.com/@thekeypals?sub_confirmation=1)
+
+#### Support
+- [Buy music on Bandcamp](https://thekeypals.bandcamp.com)
+- [Donate](https://www.paypal.com/paypalme/thekeypals)
+- [Star our repositories on GitHub](https://github.com/thekeypals?tab=repositories)
